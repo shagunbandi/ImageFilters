@@ -10,3 +10,5 @@ Filters Available:
 4. Cool
 5. Grayscale
 6. Inverse
+
+Language Used Swift 2.2 - Xcode 7
